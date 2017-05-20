@@ -1,0 +1,32 @@
+/****************
+ *              *
+ *   inPrimis   *
+ *              *
+ ***************/
+
+
+header {
+	height: 100%;
+	/* background-color: rgba(119, 119, 119, 0.91); */
+	background-color: #e7e7e7;
+}
+
+
+
+#mainNav {
+	background-color: #dee0e0
+}
+
+.navbar-brand page-scroll {
+	color: #F05F40; 
+	text-transform: none;
+}
+
+
+.header-content {
+	color: black;
+}
+
+li {
+	list-style-type: none;
+}
